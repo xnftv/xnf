@@ -1,17 +1,15 @@
 
 
 {
-## 
 
   "spider": "./emo1230.jar;md5;ff2a83bd0eba82a2e688d964876b8348",
   
 
 
-#直播
+
     "warningText": "环宇轩免费接口持续更新中……",
     "wallpaper":"https://szyyds.cn/电视壁纸.php",
-##备用
-    
+
 "lives": [{
 		    "name": "live",
 		    "type": 0,
