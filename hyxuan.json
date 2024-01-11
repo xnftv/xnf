@@ -9,6 +9,11 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
     ],
+	
+"drives":[
+	    {"name":"🐅环宇轩🐅","server":"https://alist.891218.xyz/","type":"alist"}
+	]
+	
     "sites": [
         {
             "key": "豆豆",
