@@ -144,9 +144,7 @@
       "filterable": 1
     },
 	{"key": "美少女","name": "🔞美少女","type": 0,"api": "https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0,"filterable": 1,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
-	{"key": "*博天堂","name": "🔞博天堂","type": 0,"api": "http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0,"filterable": 0,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
-	{"key":"*色猫资源","name":"🔞色猫资源","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-{"key":"*花魁资源","name":"🔞花魁资源","type":1,"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+
 {"key":"*色窝资源","name":"🔞色窝资源","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0}
 
   ],
